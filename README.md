@@ -1,2 +1,2 @@
 # POO-en-Python
-Un petit jeux pour bien comprendre le paradigme  de la poo en python.
+Un petit jeux pour bien comprendre la poo en python
